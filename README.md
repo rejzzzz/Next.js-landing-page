@@ -6,6 +6,7 @@ This is a modern, responsive landing page built with:
 -   **TypeScript**
 -   **Tailwind CSS**
 -   **shadcn/ui**
+-   **Testing-Jest**
 
 ## Preview
 
